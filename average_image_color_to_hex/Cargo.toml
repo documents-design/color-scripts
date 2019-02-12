@@ -1,0 +1,7 @@
+[package]
+name = "img"
+version = "0.1.0"
+authors = ["Lucas Sifoni <lucas@lucassifoni.info>"]
+
+[dependencies]
+image = "*"
